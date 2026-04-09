@@ -26,3 +26,8 @@ na lateral direita parte inferior é possivel ver o desenho de uma engrenagem  l
 o R6 indica o raio (se em prova aparecer miniscula, é erro. Ele disse que na prova vai ter uns lances para encontrar o erro)
 
 o 5 x 45° indica o tamanho daquele espaçosinho presente na linha curva (onde esta desenhada a engrenagem superior)
+
+5 tratpr - peça 1
+caixinha de tres linhas paralelas
+"Segure essa linha de centro, não mexa essa linha de centro"
+(entao ele começou a rotacionar o celular, a linha de centro esta parado, mas se a imagem vier errada de alguma forma, essa caixinha indica o quanto ela pode se distanciar da linha de centro inicialmente decidida)
