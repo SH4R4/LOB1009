@@ -31,3 +31,15 @@ o 5 x 45° indica o tamanho daquele espaçosinho presente na linha curva (onde e
 caixinha de tres linhas paralelas
 "Segure essa linha de centro, não mexa essa linha de centro"
 (entao ele começou a rotacionar o celular, a linha de centro esta parado, mas se a imagem vier errada de alguma forma, essa caixinha indica o quanto ela pode se distanciar da linha de centro inicialmente decidida)
+
+M8: métrico - na lateral esquerda
+
+/// Tolerancias geometricas 
+as figuruinhas ai é pra aprender e decorar
+quanto maior o numero a rugosidade é maior, quanto menor o numero a rugosidade é maior (isso em "Estados de superficies")
+
+o simbolo do A03 significa "não faça nada, que se voce fizer e unão vou pagar" o simbolo que eu assimilei a ref significa "faça aalguma coisa, mas eunão disse o que" e o que um texto em cima indica o que voce tem que fazer
+
+
+
+//Semana que vem ocorrera uma surpresa que pode ou não estar relacionada ao fato de que ele mandou a gente estudar toda a pasta do trator..........
